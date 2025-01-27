@@ -1,0 +1,11 @@
+[project]
+name = "win"
+authors = []
+description = ""
+telemetry = true
+requirements = []
+analysis = ["check_checker"]
+costs_version = 2
+[contracts.draw]
+path = "contracts/draw.clar"
+depends_on = []
